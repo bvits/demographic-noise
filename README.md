@@ -1,0 +1,3 @@
+# Finite-size effects, demographic noise, and ecosystem dynamics
+
+This repository has scripts to generate the data and figures for the [publication](https://link.springer.com/article/10.1140/epjs/s11734-021-00184-z): Majumder, S., Das, A., Kushal, A., Sankaran, S., & Guttal, V. (2021). Finite-size effects, demographic noise, and ecosystem dynamics. The European Physical Journal Special Topics, 1-13.
